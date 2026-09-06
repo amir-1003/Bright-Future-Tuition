@@ -1,0 +1,6 @@
+{
+  "name": "Bright Future Tuition",
+  "description": "Tuition portal for Bright Future Tuition featuring student registration, admin approval workflow, fee tracking, and real-time Supabase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
