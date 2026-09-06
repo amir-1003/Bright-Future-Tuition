@@ -25,9 +25,4 @@ The platform aims to make student management easier and provide a better experie
 - 📱 Responsive user interface
 - 🌐 Online access
 
-## 🚀 Run the Project Locally
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
