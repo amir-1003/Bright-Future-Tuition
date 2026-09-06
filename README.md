@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Bright Future Tuition Management
 
-# Run and deploy your AI Studio app
+A modern web-based tuition management platform designed to help manage students, admissions, fees, and parent access.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/318e05ac-3d34-4019-a8e9-3911fa113379
+Visit the live project:
 
-## Run Locally
+👉 https://brightfuturetuition-two.vercel.app
 
-**Prerequisites:**  Node.js
+## 📌 About the Project
 
+Bright Future Tuition Management is a web application created to provide a digital platform for managing a tuition/coaching institute.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The platform aims to make student management easier and provide a better experience for students, parents, and administrators.
+
+## ✨ Features
+
+- 🎓 Student admission management
+- 👨‍👩‍👧 Parent portal
+- 👨‍🎓 Student login
+- 📝 Online admission form
+- 💰 Fee management
+- 📊 Student information management
+- 📱 Responsive user interface
+- 🌐 Online access
+
+## 🚀 Run the Project Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
